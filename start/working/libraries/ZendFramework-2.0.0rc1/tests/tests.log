@@ -1,0 +1,1033 @@
+Zend/Acl:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+................................................................. 65 / 68 ( 95%)
+...
+
+Time: 0 seconds, Memory: 8.25Mb
+
+OK (68 tests, 244 assertions)
+
+
+Zend/Authentication:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+SSSSSSSSSSSSSSSSSSS.............................................. 65 / 95 ( 68%)
+...........S......SSSSSSS.....
+
+Time: 0 seconds, Memory: 12.75Mb
+
+OK, but incomplete or skipped tests!
+Tests: 95, Assertions: 272, Skipped: 27.
+
+
+Zend/Barcode:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+.............................................................   61 / 1228 (  4%)
+.........................S...................................  122 / 1228 (  9%)
+.......................S.....................................  183 / 1228 ( 14%)
+..........................S..................................  244 / 1228 ( 19%)
+..................................S..........................  305 / 1228 ( 24%)
+....................................S........................  366 / 1228 ( 29%)
+...................................S.........................  427 / 1228 ( 34%)
+................................S............................  488 / 1228 ( 39%)
+.............................S...............................  549 / 1228 ( 44%)
+...........................S.................................  610 / 1228 ( 49%)
+................S............................................  671 / 1228 ( 54%)
+..............S..............................................  732 / 1228 ( 59%)
+..................S..........................................  793 / 1228 ( 64%)
+................S............................................  854 / 1228 ( 69%)
+..............S..............................................  915 / 1228 ( 74%)
+............S................................................  976 / 1228 ( 79%)
+.........S................................................... 1037 / 1228 ( 84%)
+.......S..................................................... 1098 / 1228 ( 89%)
+......S...................................................... 1159 / 1228 ( 94%)
+............................................................. 1220 / 1228 ( 99%)
+........
+
+Time: 8 seconds, Memory: 52.25Mb
+
+OK, but incomplete or skipped tests!
+Tests: 1228, Assertions: 2197, Skipped: 18.
+
+
+Zend/Cache:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+..................................................S..........   61 / 1034 (  5%)
+.SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS  122 / 1034 ( 11%)
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS  183 / 1034 ( 17%)
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS  244 / 1034 ( 23%)
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS  305 / 1034 ( 29%)
+SSSSSSSSSSSSSSSSS...........S.....S............SS............  366 / 1034 ( 35%)
+..........S........SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS  427 / 1034 ( 41%)
+SSSSSSSSSSSSSSSSSSSSSSSSS...........S.....S............SS....  488 / 1034 ( 47%)
+..................S........SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS  549 / 1034 ( 53%)
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS............................  610 / 1034 ( 58%)
+.......................................................SSSSSS  671 / 1034 ( 64%)
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS  732 / 1034 ( 70%)
+S...........................................................S  793 / 1034 ( 76%)
+...S..SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS  854 / 1034 ( 82%)
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS  915 / 1034 ( 88%)
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS  976 / 1034 ( 94%)
+SSSSSSSSSSSSSSSSSS........................................
+
+Time: 27 seconds, Memory: 51.25Mb
+
+OK, but incomplete or skipped tests!
+Tests: 1034, Assertions: 2308, Skipped: 670.
+
+
+Zend/Captcha:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+.........................................................
+
+Time: 6 seconds, Memory: 12.50Mb
+
+OK (57 tests, 95 assertions)
+
+
+Zend/Cloud:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS...........SSS............SSS  63 / 123 ( 51%)
+S....SSSSSSSSSSSSSSSSSSSS............IIII.SSSSSSSSSSSSSSS...
+
+Time: 0 seconds, Memory: 20.00Mb
+
+OK, but incomplete or skipped tests!
+Tests: 123, Assertions: 133, Incomplete: 4, Skipped: 76.
+
+
+Zend/Code:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+..........I.....................................I..............  63 / 216 ( 29%)
+............................................................... 126 / 216 ( 58%)
+..................................I.I.......................... 189 / 216 ( 87%)
+..I........................
+
+Time: 0 seconds, Memory: 17.25Mb
+
+OK, but incomplete or skipped tests!
+Tests: 216, Assertions: 386, Incomplete: 5.
+
+
+Zend/Config:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...............................................................  63 / 120 ( 52%)
+......................SSSSSS.......................SSSSSS
+
+Time: 1 second, Memory: 13.00Mb
+
+OK, but incomplete or skipped tests!
+Tests: 120, Assertions: 268, Skipped: 12.
+
+
+Zend/Console:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+......................................................
+
+Time: 0 seconds, Memory: 7.25Mb
+
+OK (54 tests, 87 assertions)
+
+
+Zend/Crypt:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...............................................................  63 / 126 ( 50%)
+....................................S.......................... 126 / 126 (100%)
+
+
+Time: 11 seconds, Memory: 13.25Mb
+
+OK, but incomplete or skipped tests!
+Tests: 126, Assertions: 1500, Skipped: 1.
+
+
+Zend/Db:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...............................................................  63 / 319 ( 19%)
+............................................................... 126 / 319 ( 39%)
+............................................................... 189 / 319 ( 59%)
+............................................................... 252 / 319 ( 78%)
+............................................................... 315 / 319 ( 98%)
+....
+
+Time: 1 second, Memory: 18.00Mb
+
+OK (319 tests, 720 assertions)
+
+
+Zend/DebugTest.php:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+......
+
+Time: 0 seconds, Memory: 6.00Mb
+
+OK (6 tests, 8 assertions)
+
+
+Zend/Di:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+.I........IIII.............I..................................... 65 / 88 ( 73%)
+..........III..........
+
+Time: 0 seconds, Memory: 13.00Mb
+
+OK, but incomplete or skipped tests!
+Tests: 88, Assertions: 233, Incomplete: 9.
+
+
+Zend/DocBook:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+............
+
+Time: 0 seconds, Memory: 7.50Mb
+
+OK (12 tests, 53 assertions)
+
+
+Zend/Dom:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+..........................................
+
+Time: 0 seconds, Memory: 7.00Mb
+
+OK (42 tests, 64 assertions)
+
+
+Zend/Escaper:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+.................
+
+Time: 1 second, Memory: 6.75Mb
+
+OK (17 tests, 869 assertions)
+
+
+Zend/EventManager:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...................................S............................. 65 / 73 ( 89%)
+........
+
+Time: 0 seconds, Memory: 8.75Mb
+
+OK, but incomplete or skipped tests!
+Tests: 73, Assertions: 203, Skipped: 1.
+
+
+Zend/Feed:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+............................................................S   61 / 1320 (  4%)
+S............................................................  122 / 1320 (  9%)
+.............................................................  183 / 1320 ( 13%)
+.............................................................  244 / 1320 ( 18%)
+.............................................................  305 / 1320 ( 23%)
+.............................................................  366 / 1320 ( 27%)
+.............................................................  427 / 1320 ( 32%)
+.............................................................  488 / 1320 ( 36%)
+.............................................................  549 / 1320 ( 41%)
+.............................................................  610 / 1320 ( 46%)
+.............................................................  671 / 1320 ( 50%)
+.............................................................  732 / 1320 ( 55%)
+.............................................................  793 / 1320 ( 60%)
+.............................................................  854 / 1320 ( 64%)
+.............................................................  915 / 1320 ( 69%)
+...................................SSSSSSSS..................  976 / 1320 ( 73%)
+I......I...II...................................I............ 1037 / 1320 ( 78%)
+...........................................................I. 1098 / 1320 ( 83%)
+.....................................................I.....I. 1159 / 1320 ( 87%)
+..............................................I.............. 1220 / 1320 ( 92%)
+............I................................II.............. 1281 / 1320 ( 97%)
+.......................................
+
+Time: 4 seconds, Memory: 65.50Mb
+
+OK, but incomplete or skipped tests!
+Tests: 1320, Assertions: 1433, Incomplete: 12, Skipped: 10.
+
+
+Zend/File:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+................................................................. 65 / 98 ( 66%)
+.............................SSS.
+
+Time: 0 seconds, Memory: 12.50Mb
+
+OK, but incomplete or skipped tests!
+Tests: 98, Assertions: 299, Skipped: 3.
+
+
+Zend/Filter:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...............................................................  63 / 383 ( 16%)
+..............SSSSSSSSSSSSS.SSSSSSS............................ 126 / 383 ( 32%)
+............................................................... 189 / 383 ( 49%)
+............................................................... 252 / 383 ( 65%)
+............................................................... 315 / 383 ( 82%)
+............................................................... 378 / 383 ( 98%)
+.....
+
+Time: 1 second, Memory: 20.50Mb
+
+OK, but incomplete or skipped tests!
+Tests: 383, Assertions: 1106, Skipped: 20.
+
+
+Zend/Form:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+.............................................................   61 / 1409 (  4%)
+.............................................................  122 / 1409 (  8%)
+.............................................................  183 / 1409 ( 12%)
+.............................................................  244 / 1409 ( 17%)
+.............................................................  305 / 1409 ( 21%)
+.............................................................  366 / 1409 ( 25%)
+.............................................................  427 / 1409 ( 30%)
+.............................................................  488 / 1409 ( 34%)
+.............................................................  549 / 1409 ( 38%)
+.............................................................  610 / 1409 ( 43%)
+.............................................................  671 / 1409 ( 47%)
+.............................................................  732 / 1409 ( 51%)
+.............................................................  793 / 1409 ( 56%)
+.............................................................  854 / 1409 ( 60%)
+.............................................................  915 / 1409 ( 64%)
+.............................................................  976 / 1409 ( 69%)
+............................................................. 1037 / 1409 ( 73%)
+............................................................. 1098 / 1409 ( 77%)
+............................................................. 1159 / 1409 ( 82%)
+............................................................. 1220 / 1409 ( 86%)
+............................................................. 1281 / 1409 ( 90%)
+............................................................. 1342 / 1409 ( 95%)
+............................................................. 1403 / 1409 ( 99%)
+......
+
+Time: 4 seconds, Memory: 87.50Mb
+
+OK (1409 tests, 2026 assertions)
+
+
+Zend/GData:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+.............................................................   61 / 1291 (  4%)
+........................................S....................  122 / 1291 (  9%)
+.............................................................  183 / 1291 ( 14%)
+........................SSSS.................................  244 / 1291 ( 18%)
+.............................................................  305 / 1291 ( 23%)
+.............................................................  366 / 1291 ( 28%)
+...........SSSSS......................SSSS...................  427 / 1291 ( 33%)
+.............................................................  488 / 1291 ( 37%)
+.............................................................  549 / 1291 ( 42%)
+.............................................................  610 / 1291 ( 47%)
+.......................................................SSSSSS  671 / 1291 ( 51%)
+SSSSSSSSSSSSSSSSSSSSSSSSSSSS...SSSSSSSSSSSSSS................  732 / 1291 ( 56%)
+.............................................................  793 / 1291 ( 61%)
+.............................................................  854 / 1291 ( 66%)
+.........................SSSSSS..............................  915 / 1291 ( 70%)
+......................................................SSSSSSS  976 / 1291 ( 75%)
+SSSSSSS...................................................... 1037 / 1291 ( 80%)
+............................................................. 1098 / 1291 ( 85%)
+............................................................. 1159 / 1291 ( 89%)
+............................................................. 1220 / 1291 ( 94%)
+.......................SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS. 1281 / 1291 ( 99%)
+.
+
+Time: 25 seconds, Memory: 199.50Mb
+
+OK, but incomplete or skipped tests!
+Tests: 1282, Assertions: 5199, Skipped: 119.
+
+
+Zend/Http:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS  63 / 696 (  9%)
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS 126 / 696 ( 18%)
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS 189 / 696 ( 27%)
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS 252 / 696 ( 36%)
+SSSSSSSSSS..................SS....SSSSSS.................SSS... 315 / 696 ( 45%)
+....................................................II..II..II. 378 / 696 ( 54%)
+......I...II..II..II..II.......II..II..II..................II.. 441 / 696 ( 63%)
+II......II..II..II......II..II......II...........II..II..II..II 504 / 696 ( 72%)
+..II........II.......II.............................II..II..II. 567 / 696 ( 81%)
+.II..II..II..II..II..II........................................ 630 / 696 ( 90%)
+...............................................S..I.....I...... 693 / 696 ( 99%)
+..S
+
+Time: 1 second, Memory: 37.00Mb
+
+OK, but incomplete or skipped tests!
+Tests: 696, Assertions: 785, Incomplete: 71, Skipped: 275.
+
+
+Zend/I18n:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...............................................................  63 / 213 ( 29%)
+............................................................... 126 / 213 ( 59%)
+............................................................... 189 / 213 ( 88%)
+........................
+
+Time: 0 seconds, Memory: 12.50Mb
+
+OK (213 tests, 2113 assertions)
+
+
+Zend/InfoCard:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...........................................
+
+Time: 1 second, Memory: 8.25Mb
+
+OK (43 tests, 109 assertions)
+
+
+Zend/InputFilter:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+.........................................................
+
+Time: 0 seconds, Memory: 9.25Mb
+
+OK (57 tests, 143 assertions)
+
+
+Zend/Json:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+............................................SI.................  63 / 220 ( 28%)
+............................................................... 126 / 220 ( 57%)
+............................................................... 189 / 220 ( 85%)
+..I............................
+
+Time: 0 seconds, Memory: 20.00Mb
+
+OK, but incomplete or skipped tests!
+Tests: 220, Assertions: 762, Incomplete: 2, Skipped: 1.
+
+
+Zend/Ldap:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+.........................................SSSSSSSSSSSSSSSSSSSSSS  63 / 459 ( 13%)
+SSSSSSSSSSSSSSSSSSSSS.......................................... 126 / 459 ( 27%)
+.............SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS.... 189 / 459 ( 41%)
+............................................................... 252 / 459 ( 54%)
+........................................................SSSSSSS 315 / 459 ( 68%)
+SSS.............................................SSSSSSSSSSSSSSS 378 / 459 ( 82%)
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS 441 / 459 ( 96%)
+SSSSSSSSSSSSSSSSSS
+
+Time: 1 second, Memory: 24.50Mb
+
+OK, but incomplete or skipped tests!
+Tests: 459, Assertions: 648, Skipped: 195.
+
+
+Zend/Loader:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+............SSSSSSSSSSSSSSSS...................................  63 / 149 ( 42%)
+............................................................... 126 / 149 ( 84%)
+.......................
+
+Time: 0 seconds, Memory: 11.25Mb
+
+OK, but incomplete or skipped tests!
+Tests: 149, Assertions: 230, Skipped: 16.
+
+
+Zend/Log:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+................................................................. 65 / 87 ( 74%)
+..............S......
+
+Time: 0 seconds, Memory: 11.75Mb
+
+OK, but incomplete or skipped tests!
+Tests: 86, Assertions: 154, Skipped: 1.
+
+
+Zend/Mail:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...................................................II..........  63 / 449 ( 14%)
+............................................................... 126 / 449 ( 28%)
+..........................SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS 189 / 449 ( 42%)
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS 252 / 449 ( 56%)
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS............. 315 / 449 ( 70%)
+............................................................... 378 / 449 ( 84%)
+.........................SSSSSSSSSSSSSSSSSSSSSSSSSSSS......SS.. 441 / 449 ( 98%)
+........
+
+Time: 3 seconds, Memory: 26.00Mb
+
+OK, but incomplete or skipped tests!
+Tests: 449, Assertions: 556, Incomplete: 2, Skipped: 180.
+
+
+Zend/Markup:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+............
+
+Time: 0 seconds, Memory: 7.75Mb
+
+OK (12 tests, 42 assertions)
+
+
+Zend/Math:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+.................SSSSSSSSSSSSSSSSS.......
+
+Time: 1 second, Memory: 8.00Mb
+
+OK, but incomplete or skipped tests!
+Tests: 41, Assertions: 8296, Skipped: 17.
+
+
+Zend/Memory:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+.......................
+
+Time: 1 second, Memory: 8.75Mb
+
+OK (23 tests, 126 assertions)
+
+
+Zend/Mime:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+.......................
+
+Time: 0 seconds, Memory: 7.25Mb
+
+OK (23 tests, 48 assertions)
+
+
+Zend/ModuleManager:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+.................................................
+
+Time: 0 seconds, Memory: 12.25Mb
+
+OK (49 tests, 167 assertions)
+
+
+Zend/Mvc:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...............................................................  63 / 411 ( 15%)
+............................................................... 126 / 411 ( 30%)
+............................................................... 189 / 411 ( 45%)
+............................................................... 252 / 411 ( 61%)
+............................................................... 315 / 411 ( 76%)
+............................................................... 378 / 411 ( 91%)
+.................................
+
+Time: 1 second, Memory: 29.50Mb
+
+OK (411 tests, 697 assertions)
+
+
+Zend/Navigation:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...............................................................  63 / 153 ( 41%)
+............................................................... 126 / 153 ( 82%)
+.........................
+
+Time: 0 seconds, Memory: 16.75Mb
+
+OK (151 tests, 240 assertions)
+
+
+Zend/OAuth:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+................................................................. 65 / 96 ( 67%)
+.....II........................
+
+Time: 0 seconds, Memory: 12.50Mb
+
+OK, but incomplete or skipped tests!
+Tests: 96, Assertions: 94, Incomplete: 2.
+
+
+Zend/OpenId:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+.................................F............................... 65 / 67 ( 97%)
+..
+
+Time: 17 seconds, Memory: 15.25Mb
+
+There was 1 failure:
+
+1) ZendTest\OpenId\OpenIdTest::testRedirect
+Failed asserting that two strings are identical.
+--- Expected
++++ Actual
+@@ @@
+-<script language="JavaScript" type="text/javascript">window.location='http://www.test.com/';</script>
++
+
+/home/matthew/git/zf2/tests/Zend/OpenId/OpenIdTest.php:434
+/home/matthew/git/phpunit/phpunit/phpunit.php:46
+
+FAILURES!
+Tests: 67, Assertions: 1115, Failures: 1.
+
+
+Zend/Paginator:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+....IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII  63 / 188 ( 33%)
+IIIIIIIIIIIIIIIIIII.............II............................. 126 / 188 ( 67%)
+............I................................................
+
+Time: 0 seconds, Memory: 18.00Mb
+
+OK, but incomplete or skipped tests!
+Tests: 187, Assertions: 211, Incomplete: 81.
+
+
+Zend/Pdf:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...............................................................  63 / 100 ( 63%)
+.....................................
+
+Time: 2 seconds, Memory: 37.00Mb
+
+OK (100 tests, 292 assertions)
+
+
+Zend/ProgressBar:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+S........................................
+
+Time: 0 seconds, Memory: 8.75Mb
+
+OK, but incomplete or skipped tests!
+Tests: 41, Assertions: 66, Skipped: 1.
+
+
+Zend/RegistryTest.php:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+......
+
+Time: 0 seconds, Memory: 5.75Mb
+
+OK (6 tests, 8 assertions)
+
+
+Zend/Rest:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+.............................
+
+Time: 0 seconds, Memory: 9.00Mb
+
+OK (29 tests, 55 assertions)
+
+
+Zend/Router:
+PHP Fatal error:  Uncaught exception 'PHPUnit_Framework_Exception' with message 'Neither "/home/matthew/git/zf2/tests/Zend/Router.php" nor "/home/matthew/git/zf2/tests/Zend/Router.php" could be opened.' in /home/matthew/git/phpunit/phpunit/PHPUnit/Util/Skeleton/Test.php:100
+Stack trace:
+#0 /home/matthew/git/phpunit/phpunit/PHPUnit/TextUI/Command.php(157): PHPUnit_Util_Skeleton_Test->__construct('/home/matthew/g...', '')
+#1 /home/matthew/git/phpunit/phpunit/PHPUnit/TextUI/Command.php(130): PHPUnit_TextUI_Command->run(Array, true)
+#2 /home/matthew/git/phpunit/phpunit/phpunit.php(46): PHPUnit_TextUI_Command::main()
+#3 {main}
+  thrown in /home/matthew/git/phpunit/phpunit/PHPUnit/Util/Skeleton/Test.php on line 100
+
+Fatal error: Uncaught exception 'PHPUnit_Framework_Exception' with message 'Neither "/home/matthew/git/zf2/tests/Zend/Router.php" nor "/home/matthew/git/zf2/tests/Zend/Router.php" could be opened.' in /home/matthew/git/phpunit/phpunit/PHPUnit/Util/Skeleton/Test.php on line 100
+
+PHPUnit_Framework_Exception: Neither "/home/matthew/git/zf2/tests/Zend/Router.php" nor "/home/matthew/git/zf2/tests/Zend/Router.php" could be opened. in /home/matthew/git/phpunit/phpunit/PHPUnit/Util/Skeleton/Test.php on line 100
+
+Call Stack:
+    0.0001     630872   1. {main}() /home/matthew/git/phpunit/phpunit/phpunit.php:0
+    0.0024    1227232   2. PHPUnit_TextUI_Command::main($exit = ???) /home/matthew/git/phpunit/phpunit/phpunit.php:46
+    0.0024    1227960   3. PHPUnit_TextUI_Command->run($argv = array (0 => '/home/matthew/git/phpunit/phpunit/phpunit.php', 1 => '--stderr', 2 => '-c', 3 => 'phpunit.xml.dist', 4 => '/home/matthew/git/zf2/tests/Zend/Router'), $exit = TRUE) /home/matthew/git/phpunit/phpunit/PHPUnit/TextUI/Command.php:130
+    0.0143    3443392   4. PHPUnit_Util_Skeleton_Test->__construct($inClassName = '/home/matthew/git/zf2/tests/Zend/Router', $inSourceFile = '', $outClassName = ???, $outSourceFile = ???) /home/matthew/git/phpunit/phpunit/PHPUnit/TextUI/Command.php:157
+
+
+
+Zend/Search:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...............................................................  63 / 157 ( 40%)
+............................................................... 126 / 157 ( 80%)
+...............................
+
+Time: 22 seconds, Memory: 27.50Mb
+
+OK (157 tests, 1072 assertions)
+
+
+Zend/Serializer:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+....SSSSSSSSSSS................................................  63 / 129 ( 48%)
+......................................SSSSSSSSSSSSSSSS......... 126 / 129 ( 97%)
+...
+
+Time: 1 second, Memory: 11.25Mb
+
+OK, but incomplete or skipped tests!
+Tests: 129, Assertions: 106, Skipped: 27.
+
+
+Zend/Server:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...............................................................  63 / 120 ( 52%)
+.........................................................
+
+Time: 0 seconds, Memory: 11.75Mb
+
+OK (120 tests, 299 assertions)
+
+
+Zend/ServiceManager:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...................................................
+
+Time: 0 seconds, Memory: 10.75Mb
+
+OK (51 tests, 69 assertions)
+
+
+Zend/Session:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...............................................................  63 / 457 ( 13%)
+............................................................... 126 / 457 ( 27%)
+............................................................... 189 / 457 ( 41%)
+............................................................... 252 / 457 ( 55%)
+...........................S................................... 315 / 457 ( 68%)
+............................................................... 378 / 457 ( 82%)
+............................................................... 441 / 457 ( 96%)
+................
+
+Time: 13 seconds, Memory: 18.75Mb
+
+OK, but incomplete or skipped tests!
+Tests: 457, Assertions: 608, Skipped: 1.
+
+
+Zend/Soap:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+SS..........................I.......E..........................  63 / 147 ( 42%)
+..........................I.................................... 126 / 147 ( 85%)
+.....................
+
+Time: 0 seconds, Memory: 14.25Mb
+
+There was 1 error:
+
+1) ZendTest\Soap\Server\DocumentLiteralWrapperTest::testDelegate
+RuntimeException: Segmentation fault (core dumped)
+
+/home/matthew/git/phpunit/phpunit/phpunit.php:46
+
+FAILURES!
+Tests: 147, Assertions: 307, Errors: 1, Incomplete: 2, Skipped: 2.
+Segmentation fault (core dumped)
+
+
+Zend/Stdlib:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...............................................................  63 / 104 ( 60%)
+.........................................
+
+Time: 0 seconds, Memory: 9.50Mb
+
+OK (104 tests, 266 assertions)
+
+
+Zend/Tag:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...............................................................
+
+Time: 0 seconds, Memory: 8.50Mb
+
+OK (63 tests, 97 assertions)
+
+
+Zend/Text:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...............................................................  63 / 100 ( 63%)
+.....................................
+
+Time: 1 second, Memory: 8.75Mb
+
+OK (100 tests, 113 assertions)
+
+
+Zend/TimeSync:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+............SSS..S
+
+Time: 1 second, Memory: 6.75Mb
+
+OK, but incomplete or skipped tests!
+Tests: 18, Assertions: 22, Skipped: 4.
+
+
+Zend/Tool:
+PHP Fatal error:  Uncaught exception 'PHPUnit_Framework_Exception' with message 'Neither "/home/matthew/git/zf2/tests/Zend/Tool.php" nor "/home/matthew/git/zf2/tests/Zend/Tool.php" could be opened.' in /home/matthew/git/phpunit/phpunit/PHPUnit/Util/Skeleton/Test.php:100
+Stack trace:
+#0 /home/matthew/git/phpunit/phpunit/PHPUnit/TextUI/Command.php(157): PHPUnit_Util_Skeleton_Test->__construct('/home/matthew/g...', '')
+#1 /home/matthew/git/phpunit/phpunit/PHPUnit/TextUI/Command.php(130): PHPUnit_TextUI_Command->run(Array, true)
+#2 /home/matthew/git/phpunit/phpunit/phpunit.php(46): PHPUnit_TextUI_Command::main()
+#3 {main}
+  thrown in /home/matthew/git/phpunit/phpunit/PHPUnit/Util/Skeleton/Test.php on line 100
+
+Fatal error: Uncaught exception 'PHPUnit_Framework_Exception' with message 'Neither "/home/matthew/git/zf2/tests/Zend/Tool.php" nor "/home/matthew/git/zf2/tests/Zend/Tool.php" could be opened.' in /home/matthew/git/phpunit/phpunit/PHPUnit/Util/Skeleton/Test.php on line 100
+
+PHPUnit_Framework_Exception: Neither "/home/matthew/git/zf2/tests/Zend/Tool.php" nor "/home/matthew/git/zf2/tests/Zend/Tool.php" could be opened. in /home/matthew/git/phpunit/phpunit/PHPUnit/Util/Skeleton/Test.php on line 100
+
+Call Stack:
+    0.0001     630872   1. {main}() /home/matthew/git/phpunit/phpunit/phpunit.php:0
+    0.0026    1227232   2. PHPUnit_TextUI_Command::main($exit = ???) /home/matthew/git/phpunit/phpunit/phpunit.php:46
+    0.0026    1227960   3. PHPUnit_TextUI_Command->run($argv = array (0 => '/home/matthew/git/phpunit/phpunit/phpunit.php', 1 => '--stderr', 2 => '-c', 3 => 'phpunit.xml.dist', 4 => '/home/matthew/git/zf2/tests/Zend/Tool'), $exit = TRUE) /home/matthew/git/phpunit/phpunit/PHPUnit/TextUI/Command.php:130
+    0.3011    3446776   4. PHPUnit_Util_Skeleton_Test->__construct($inClassName = '/home/matthew/git/zf2/tests/Zend/Tool', $inSourceFile = '', $outClassName = ???, $outSourceFile = ???) /home/matthew/git/phpunit/phpunit/PHPUnit/TextUI/Command.php:157
+
+
+
+Zend/Uri:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...............................................................  63 / 537 ( 11%)
+............................................................... 126 / 537 ( 23%)
+............................................................... 189 / 537 ( 35%)
+............................................................... 252 / 537 ( 46%)
+............................................................... 315 / 537 ( 58%)
+............................................................... 378 / 537 ( 70%)
+............................................................... 441 / 537 ( 82%)
+............................................................... 504 / 537 ( 93%)
+.................................
+
+Time: 1 second, Memory: 13.00Mb
+
+OK (537 tests, 555 assertions)
+
+
+Zend/Validator:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...............................................................  63 / 657 (  9%)
+............................................................... 126 / 657 ( 19%)
+............................................................... 189 / 657 ( 28%)
+..................................I....................S....... 252 / 657 ( 38%)
+........S..S................................................... 315 / 657 ( 47%)
+............................................................... 378 / 657 ( 57%)
+............................................................... 441 / 657 ( 67%)
+............................................................... 504 / 657 ( 76%)
+............................................................... 567 / 657 ( 86%)
+.............................IIIII............................. 630 / 657 ( 95%)
+...........................
+
+Time: 2 seconds, Memory: 39.25Mb
+
+OK, but incomplete or skipped tests!
+Tests: 657, Assertions: 2271, Incomplete: 6, Skipped: 3.
+
+
+Zend/VersionTest.php:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+.S
+
+Time: 0 seconds, Memory: 5.50Mb
+
+OK, but incomplete or skipped tests!
+Tests: 2, Assertions: 7680, Skipped: 1.
+
+
+Zend/View:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...............................................................  63 / 746 (  8%)
+............................................................... 126 / 746 ( 16%)
+............................................................... 189 / 746 ( 25%)
+............................................................... 252 / 746 ( 33%)
+............................................................... 315 / 746 ( 42%)
+............................................................... 378 / 746 ( 50%)
+.......................I.I...S................................. 441 / 746 ( 59%)
+............................................................... 504 / 746 ( 67%)
+............................................................... 567 / 746 ( 76%)
+...................................S...........S............... 630 / 746 ( 84%)
+...........................................................S... 693 / 746 ( 92%)
+..S..................................................
+
+Time: 6 seconds, Memory: 105.00Mb
+
+OK, but incomplete or skipped tests!
+Tests: 746, Assertions: 1463, Incomplete: 2, Skipped: 5.
+
+
+Zend/XmlRpc:
+PHPUnit @package_version@ by Sebastian Bergmann.
+
+Configuration read from /home/matthew/git/zf2/tests/phpunit.xml.dist
+
+...............................................................  63 / 245 ( 25%)
+............................................................... 126 / 245 ( 51%)
+............................................................... 189 / 245 ( 77%)
+........................................................
+
+Time: 1 second, Memory: 22.50Mb
+
+OK (245 tests, 755 assertions)
+
+

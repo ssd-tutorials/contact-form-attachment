@@ -1,0 +1,146 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: none;
+	outline: none;
+}
+body {
+	text-align: center;
+	font-family: Arial, Verdana, Sans-serif;
+	font-size: 12px;
+	padding: 30px 0;
+	line-height: 18px;
+	background: #eee;
+	line-height: 21px;
+}
+body,a {
+	color: #333;
+}
+h1,p {
+	padding-bottom: 10px;
+}
+#wrapper {
+	width: 514px;
+	margin: 0 auto;
+	text-align: left;
+}
+.row {
+	width: 100%;
+	float: left;
+	padding-bottom: 4px;
+}
+.rowLeft,.rowRight {
+	width: 247px;
+	float: left;
+}
+.rowLeft {
+	padding-right: 10px;
+}
+.rowRight {
+	padding-left: 10px;
+}
+.field,.area,.select {
+	border: solid 1px #ddd;
+	padding: 6px;
+	width: 233px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+.area {
+	width: 500px;
+	height: 150px;
+}
+.select {
+	width: 246px;
+}
+.button {
+	text-decoration: none;
+	float: left;
+	padding: 8px 15px;	
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	color: #fff;
+	line-height: 1em;
+}
+.buttonGreen {
+	background: url(/images/button.png) repeat-x 0 -80px;
+	border: solid 1px #718d07;
+}
+.buttonGreen:hover {
+	background-position: 0 -120px;
+}
+.buttonYellow {
+	background: url(/images/button.png) repeat-x 0 -160px;
+	border: solid 1px #e5a204;
+}
+.buttonYellow:hover {
+	background-position: 0 -200px;
+}
+.warningMain {
+	padding: 4px 10px;
+	color: #fff;
+	background: #900;
+	margin-bottom: 16px;
+}
+.warningBlock {
+	padding: 7px 10px;
+	background: #f8ab48;
+	color: #333;
+	float: left;
+	width: 494px;
+	margin-bottom: 10px;
+}
+.warning {
+	color: #900;
+}
+.flr {
+	float: right;
+}
+.uploadItem {
+	width: 100%;
+	float: left;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	border-bottom: dashed 1px #aaa;
+}
+.uploadIcon,.removeItem {
+	float: left;
+	width: 20px;
+	height: 20px;
+	margin-right: 20px;
+	text-indent: -999999em;
+	overflow: hidden;
+	background-image: url(/images/sprite.png);
+	background-repeat: no-repeat;
+}
+.doc,.docx {
+	background-position: 0 0;
+}
+.pdf {
+	background-position: 0 -20px;
+}
+.jpg,.jpeg {
+	background-position: 0 -40px;
+}
+.png {
+	background-position: 0 -60px;
+}
+.gif {
+	background-position: 0 -80px;
+}
+.removeItem {
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+	background-position: 0 -100px;
+	cursor: pointer;
+}
+.pdb0 {
+	padding-bottom: 0;
+}
+#fileList {
+	float: left;
+	width: 100%;
+}
